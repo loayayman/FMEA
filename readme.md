@@ -157,5 +157,5 @@ A detailed log reached through drill-through, listing **Equipment ID, Year, Mont
 
 **Loay Ayman**
 
-- LinkedIn: [linkedin.com/in/loayayman](https://linkedin.com/in/loayayman)
+- LinkedIn: [linkedin.com/in/loayayman](https://linkedin.com/in/loayaymaan)
 - Portfolio: [loayayman.vercel.app](https://loayayman.vercel.app/)
