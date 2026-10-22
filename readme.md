@@ -18,28 +18,30 @@ The goal is to help reliability and maintenance teams:
 
 
 ### FMEA & Risk Analysis
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/c352bbfa-5be3-4ad4-a798-18e3327283d7.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/c352bbfa-5be3-4ad4-a798-18e3327283d7.png" />
+
+
 
 <details>
 <summary><b>More screenshots (filters, tooltips, drill-through)</b></summary>
 
 #### Slicer Filter Panel
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/66385dfb-d844-40b6-9a8f-a12c5ea5c755.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/66385dfb-d844-40b6-9a8f-a12c5ea5c755.png" />
 
 #### Filtered FMEA View (Failure Mode selected, Drill Through enabled)
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/27ce1a5c-7401-446f-a491-86d77730ab29.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/27ce1a5c-7401-446f-a491-86d77730ab29.png" />
 
 #### Tooltip: Downtime Trend – Week 32
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/2de0e8ba-60a5-43d4-87f5-96f10bd1efa6.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/2de0e8ba-60a5-43d4-87f5-96f10bd1efa6.png" />
 
 #### Tooltip: ER Work Orders (all equipment)
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/86caa7bd-d2c2-4389-9e6d-d70696837fd0.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/86caa7bd-d2c2-4389-9e6d-d70696837fd0.png" />
 
 #### Tooltip: RTG ER Work Orders
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/94abd61f-58a9-477b-bf44-2703dadd97c4.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/94abd61f-58a9-477b-bf44-2703dadd97c4.png" />
 
 #### Drill-Through: Work Order Detail Log
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/71a0a484-498d-4983-b301-b2b74795e2a9.png
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/71a0a484-498d-4983-b301-b2b74795e2a9.png" />
 
 </details>
 
