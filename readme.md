@@ -14,7 +14,8 @@ The goal is to help reliability and maintenance teams:
 ## 🖼️ Dashboard Preview
 
 ### Operations Overview
-https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/ec909af9-ba4f-4708-8024-c914514f821c.png
+ <img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/ec909af9-ba4f-4708-8024-c914514f821c.png" />
+
 
 ### FMEA & Risk Analysis
 https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/c352bbfa-5be3-4ad4-a798-18e3327283d7.png
