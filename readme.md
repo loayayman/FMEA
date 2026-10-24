@@ -125,9 +125,9 @@ A detailed log reached through drill-through, listing **Equipment ID, Year, Mont
 .
 ├── FMEA.pbix   # Power BI report
 └── Data/ 
-    └── FMEA Visualization Last update..xlsm    # Source data
+    └── FMEA Visualization Last update..xlsm     # Source data
 ├── README.md
-└── images/                           # Dashboard screenshots
+└── images/                                     # Dashboard screenshots
     ├── 01_operations_overview.png
     ├── 02_slicer_panel.png
     ├── 03_fmea_risk_analysis.png
@@ -144,7 +144,7 @@ A detailed log reached through drill-through, listing **Equipment ID, Year, Mont
 
 1. **Download:** Clone this repository and open `Equipment_Reliability_FMEA.pbix` in Power BI Desktop.
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<loayayman>/<FMEA>.git
    ```
 2. **Filter:** Click the **funnel icon** (top right) to open the slicer panel and filter by Equipment Class, Date, WO Type or Status.
 3. **Hover:** Move over the Downtime Trend or equipment-class charts to open the detailed tooltips.
