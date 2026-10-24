@@ -28,6 +28,9 @@ The goal is to help reliability and maintenance teams:
 ### Filtered FMEA View (Failure Mode selected, Drill Through enabled)
 <img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/27ce1a5c-7401-446f-a491-86d77730ab29.png" />
 
+### Drill-Through: Work Order Detail Log
+<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/71a0a484-498d-4983-b301-b2b74795e2a9.png" />
+
 ### Tooltip: Downtime Trend – Week 32
 <img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/2de0e8ba-60a5-43d4-87f5-96f10bd1efa6.png" />
 
@@ -36,9 +39,6 @@ The goal is to help reliability and maintenance teams:
 
 ### Tooltip: RTG ER Work Orders
 <img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/94abd61f-58a9-477b-bf44-2703dadd97c4.png" />
-
-### Drill-Through: Work Order Detail Log
-<img width="1310" height="741" alt="Nav" src="https://raw.githubusercontent.com/loayayman/FMEA/refs/heads/main/Images/71a0a484-498d-4983-b301-b2b74795e2a9.png" />
 
 ---
 
